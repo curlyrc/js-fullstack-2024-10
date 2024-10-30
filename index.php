@@ -1,3 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="Assets/style.css">
+</head>
+<body>
+<h1>pfudjkfh</h1>
 <?php
 //for ($i=0;$i<3;$i++) echo 'Hello ';
 //echo 'Сумма четных чисел';
@@ -42,3 +54,11 @@ echo "Последний символ строки '$str[$last]' <br>";
 //короткая запись
 //$str = 'abcde';
 //echo $str[strlen($str) - 1];
+?>
+<p><?php echo "Последний символ строки '$str[$last]' <br>";?></p>
+
+<div><a href="contacts.php">Contacts</a> </div>
+
+<footer>&copy; Студент Илья</footer>
+</body>
+</html>
