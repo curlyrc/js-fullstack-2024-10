@@ -1,3 +1,31 @@
+p {
+    background-color: chartreuse;
+}
+
 div > p {
     background-color: yellow;
+}
+
+.title {
+    background-color: aquamarine;
+}
+
+p.title {
+    background-color: blueviolet;
+}
+
+#promo {
+    background-color: burlywood;
+}
+
+h1#prom {
+    background-color: cadetblue;
+}
+
+.title a {
+    background-color: chocolate;
+}
+
+.title .warning {
+    background-color: crimson;
 }

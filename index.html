@@ -8,12 +8,21 @@
 
 <body>
 
-<h1>Домашняя работа 4. Контекстные селекторы</h1>
+<h1 id="prom">Домашняя работа 4. Контекстные селекторы</h1>
 <hr>
 
 <div>
   <p>Застосовується до тегів p, вкладених у div, на першому рівні, вага 2</p>
 </div>
+<p>p {} за тегом </p>
+<p><span class="title">.title {} за класом</span></p>
+<p class="title">p.title {} тег з класом</p>
+<p id="promo">#promo {} за id</p>
+<p>h1#chapter1 {} тег з id</p>
+<p class="title"><a href="#prom">.title a {} тег внутри тега с классом</a></p>
+<p class="title"><span class="warning">.title .warning {} класс внутри класса</span></p>
+<p>.title > a {} следующий дочерний тег внутри тега с классом</p>
+<p>.title em + a {} последовательность тегов внутри тега с классом</p>
 
 </body>
 </html>
