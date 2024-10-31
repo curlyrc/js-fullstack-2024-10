@@ -1,54 +1,54 @@
 p {
-    background-color: chartreuse;
-}
+        background-color: chartreuse;
+    }
 
-div > p {
-    background-color: yellow;
-}
+    div > p {
+        background-color: yellow;
+    }
 
-.title {
-    background-color: aquamarine;
-}
+    .title {
+        background-color: aquamarine;
+    }
 
-p.title {
-    background-color: blueviolet;
-}
+    p.title {
+        background-color: blueviolet;
+    }
 
-#promo {
-    background-color: burlywood;
-}
+    #promo {
+        background-color: burlywood;
+    }
 
-h1#prom {
-    background-color: cadetblue;
-}
+    h1#prom {
+        background-color: cadetblue;
+    }
 
-.title a {
-    background-color: chocolate;
-}
+    .title a {
+        background-color: chocolate;
+    }
 
-.title .warning {
-    background-color: crimson;
-}
+    .title .warning {
+        background-color: crimson;
+    }
 
-.container {
- max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: aliceblue;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px black;
-}
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: aliceblue;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px black;
+    }
 
-.body-color {
- background-color: cyan;
-}
+    .body-color {
+        background-color: cyan;
+    }
 
-footer .container {
-    background-color: blue;
-    text-align: center;
-}
+    footer .container {
+        background-color: blue;
+        text-align: center;
+    }
 
-header .container {
-    background-color: blue;
-    text-align: center;
-}
+    header .container {
+        background-color: blue;
+        text-align: center;
+    }
